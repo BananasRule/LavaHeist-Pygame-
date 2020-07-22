@@ -2,9 +2,10 @@
 SYSTEM SETTINGS / REQUIREMENTS
 #######################################################################################################
 
-Python 3.7.5 is validated to work, other versions are not tested to work
+Python 3.7.5 is validated to work, other versions are not tested to work but newer versions should
 Pygame installed
 playsound installed
+If you do not have the packages installed run .setup.bat to install them
 
 System display scaling at 100%
 Display Resolution at 1920 x 1080 (1080p)
