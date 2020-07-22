@@ -1,0 +1,19 @@
+#######################################################################################################
+SYSTEM SETTINGS / REQUIREMENTS
+#######################################################################################################
+
+Python 3.7.5 is validated to work, other versions are not tested to work
+Pygame installed
+playsound installed
+
+System display scaling at 100%
+Display Resolution at 1920 x 1080 (1080p)
+
+#######################################################################################################
+HOW TO RUN GAME
+#######################################################################################################
+Please click Run.bat to run the game
+For first time use please click .setup.bat to install python packages
+
+
+
