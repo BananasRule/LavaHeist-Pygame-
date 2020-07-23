@@ -11,3 +11,23 @@ If the .run batchfile hangs and doesn't start the game press enter a couple of t
 All assets must be kept in the same folder as they are now.
 
 If there are issues please create an issue in the issues tab.
+
+*****
+Legal Stuff and Disclamer
+*****
+
+'Software' in this case includes everything in this github repository.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+You may not copy, distrubute, share, publish, adapt and/or transform this software in anyway except for the exceptions listed below.
+1. You may download and use the software for personal use.
+2. You may download and use the software for evaluation and testing purposes.
+3. You may share the github link to this software.
+4. You may copy, distrubute, share, publish, adapt and/or transform this software if the law requires it, and only to the extent which the law requires it.
